@@ -2,5 +2,5 @@
 # (raw data, big, see http://pjreddie.com/projects/mnist-in-csv/
  for full datasets)
 
-	mnist_test.csv
-	mnist_train.csv
+mnist_test.csv
+mnist_train.csv
