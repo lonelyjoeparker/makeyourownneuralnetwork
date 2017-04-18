@@ -1,0 +1,6 @@
+# Untracked files 
+# (raw data, big, see http://pjreddie.com/projects/mnist-in-csv/
+ for full datasets)
+
+	mnist_dataset/mnist_test.csv
+	mnist_dataset/mnist_train.csv
